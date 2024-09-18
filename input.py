@@ -1,0 +1,1 @@
+a,b=list(map(int,input("Введите два цедых чисел").split()))
